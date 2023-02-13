@@ -1,0 +1,2 @@
+A=as.integer(readline(prompt="enter number:"))
+ifelse(A%%2==0,"even","odd")
