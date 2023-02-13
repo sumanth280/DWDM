@@ -1,0 +1,16 @@
+ num1=as.integer(readline(prompt="enter number:"))
+enter number:5
+> num2=as.integer(readline(prompt="enter number:"))
+enter number:4
+> a=num1+num2
+> b=num1-num2
+> c=num1*num2
+> d=num1/num2
+> print(a)
+[1] 9
+> print(b)
+[1] 1
+> print(c)
+[1] 20
+> print(d)
+[1] 1.25
